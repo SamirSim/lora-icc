@@ -1,0 +1,3 @@
+Waf: Entering directory `/Users/samirsim/Desktop/ns-lorawan/ns-3.33/build'
+Waf: Leaving directory `/Users/samirsim/Desktop/ns-lorawan/ns-3.33/build'
+Interrupted 

@@ -1,0 +1,50 @@
++0.000000000s -1 lora-telemetry:main(): Completed configuration
++0.000000000s -1 lora-telemetry:main(): Running simulation...
++390.374184073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.00193235J
++390.446120073s 0 LoraRadioEnergyModel:ChangeState(): Depleted 0.0719360.07751780.0184019
++390.446120073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0203342J
++390.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0203342J
++391.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0203392J
++391.454312083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.020377J
++392.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0203819J
++392.708264083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.021593J
++990.374184073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0245515J
++990.446120073s 0 LoraRadioEnergyModel:ChangeState(): Depleted 0.0719360.07751780.0184019
++990.446120073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0429533J
++990.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0429533J
++991.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0429583J
++991.454312083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0429961J
++992.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.043001J
++992.708264083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0442121J
++1590.374184073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0471706J
++1590.446120073s 0 LoraRadioEnergyModel:ChangeState(): Depleted 0.0719360.07751780.0184019
++1590.446120073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0655724J
++1590.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0655724J
++1591.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0655774J
++1591.454312083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0656152J
++1592.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0656201J
++1592.708264083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0668312J
++2190.374184073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0697897J
++2190.446120073s 0 LoraRadioEnergyModel:ChangeState(): Depleted 0.0719360.07751780.0184019
++2190.446120073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0881915J
++2190.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0881915J
++2191.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0881965J
++2191.454312083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0882343J
++2192.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0882392J
++2192.708264083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0894503J
++2790.374184073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.0924088J
++2790.446120073s 0 LoraRadioEnergyModel:ChangeState(): Depleted 0.0719360.07751780.0184019
++2790.446120073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.110811J
++2790.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.110811J
++2791.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.110816J
++2791.454312083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.110853J
++2792.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.110858J
++2792.708264083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.112069J
++3390.374184073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.115028J
++3390.446120073s 0 LoraRadioEnergyModel:ChangeState(): Depleted 0.0719360.07751780.0184019
++3390.446120073s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.13343J
++3390.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.13343J
++3391.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.133435J
++3391.454312083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.133473J
++3392.446120083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.133477J
++3392.708264083s 0 LoraRadioEnergyModel:ChangeState(): LoraRadioEnergyModel:Total energy consumption is 0.134689J

@@ -1,0 +1,5 @@
+Waf: Entering directory `/Users/samirsim/Desktop/ns-lorawan/ns-3.33/build'
+Waf: Leaving directory `/Users/samirsim/Desktop/ns-lorawan/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.526s)
+6000.000000 5360.000000
